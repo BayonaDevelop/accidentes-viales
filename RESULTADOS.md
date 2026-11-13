@@ -1,3 +1,9 @@
+### Siniestralidad vial en México (INEGI-ATUS, 2015 en adelante)
+
+- Objetivo:\*\* identificar cuándo, dónde y bajo qué condiciones los accidentes de tránsito dejan víctimas, a partir de los datos abiertos del INEGI.
+- Mi rol:\*\* proyecto individual; definí el problema y el alcance, construí el proceso reproducible de descarga y limpieza en Python, hice el análisis exploratorio, ajusté un modelo de regresión logística con validación temporal y comuniqué los hallazgos.
+- Fuente de los datos:\*\* INEGI. Estadística de Accidentes de Tránsito Terrestre en Zonas Urbanas y Suburbanas (ATUS). <https://www.inegi.org.mx/programas/accidentes/>
+
 ### Resultados principales (2015–2023)
 
 - Se analizaron **3,238,288 accidentes** con **813,356 personas heridas** y **40,154 fallecidas**; el 19.0% de los accidentes dejó víctimas.
